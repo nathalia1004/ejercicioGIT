@@ -1,2 +1,2 @@
 # ejercicioGIT
-Ejercicio Git y Github Nathalia Cóndor correo natis.nti@gmail.com
+Ejercicio Git y Github Nathalia Estefania Cóndor Flores  -Correo natis.nti@gmail.com
